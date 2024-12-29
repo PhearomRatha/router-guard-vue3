@@ -1,5 +1,6 @@
 <template>
-  <h1>Login Page</h1>
+  <h1>Login Page </h1>
+   <h2>welcome back Ratha </h2>
   <input type="text" placeholder="Email.." v-model="email" />
   <input type="text" placeholder="Password.." v-model="psw" />
   <button @click="onClickLogin">Login</button>
